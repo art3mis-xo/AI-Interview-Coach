@@ -30,11 +30,13 @@ InterviewCoach/
 ```bash
 git clone https://github.com/<your-username>/InterviewCoach.git
 cd InterviewCoach
-pip install -r requirements.txt```
+pip install -r requirements.txt
+```
 
 ## Usage
 Run the app locally:
-```streamlit run app.py```
+```streamlit run app.py
+```
 
 Open http://localhost:8501 (localhost in Bing) in your browser to start the interview.
 
