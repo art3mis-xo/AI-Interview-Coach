@@ -35,7 +35,8 @@ pip install -r requirements.txt
 
 ## Usage
 Run the app locally:
-```streamlit run app.py
+```bash
+streamlit run app.py
 ```
 
 Open http://localhost:8501 (localhost in Bing) in your browser to start the interview.
