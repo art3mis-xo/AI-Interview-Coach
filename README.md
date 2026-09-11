@@ -28,8 +28,8 @@ InterviewCoach/
 
 ## Installation
 ```bash
-git clone https://github.com/<your-username>/InterviewCoach.git
-cd InterviewCoach
+git clone https://github.com/art3mis-xo/AI-Interview-Coach.git
+cd AI-Interview-Coach
 pip install -r requirements.txt
 ```
 
